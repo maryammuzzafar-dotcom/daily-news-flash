@@ -1,9 +1,6 @@
-#Daily News Flash
-A Python-based project that generates a news ticker or summary of the latest headlines.
+# Daily News Flash
+A personal projectbuilt to explore Python and new APIs
 ## Features
-Fetches top headlines automatically.
-Formats news into an esay-to-read daily flash.
-Created as part of my Python programming coursework.
-## How to Run
-Open the'Pythonproject-4.ipynb'file in Google Collab or JupyterLab.
-Run all cells to see the latest news output.
+Fetches and displays the top news headline every hour for 24 hours.
+## How to run 
+Open the daily_news_flash.ipynb file in JupyterLab. Run all cells to see the latest news output.
