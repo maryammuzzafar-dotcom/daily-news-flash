@@ -1,5 +1,5 @@
 # Daily News Flash
-A personal projectbuilt to explore Python and new APIs
+A personal project built to explore Python and new APIs
 ## Features
 Fetches and displays the top news headline every hour for 24 hours.
 ## How to run 
